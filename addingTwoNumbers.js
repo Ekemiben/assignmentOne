@@ -20,16 +20,7 @@ function twoNums(nums, target){
 console.log((x))
 
 
-// let twoSum =(nums, target)=>{
-//     let emptyObj = {}
-//     for(let i=0; i < nums.length; i++){
-//         if(emptyObj[target - nums] !== undefined){
-//             return [emptyObj[target - nums[i]], i]
-//         }
-//         emptyObj[nums[i]] = i
-//     }
-// }
-// let result = twoSum.Map([2,7,11,15], 9)
+
 
 
 
