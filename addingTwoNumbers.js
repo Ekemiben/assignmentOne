@@ -14,7 +14,6 @@ function twoNums(nums, target){
         }
     }
     return emptiArr;
-    console.log(emptiArr(x))
 }
 
 console.log((x))
